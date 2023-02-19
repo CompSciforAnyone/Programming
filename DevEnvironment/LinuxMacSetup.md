@@ -273,14 +273,15 @@ Enter the following code into the python file:
 
     print("Hello world!")
 
-Up at the top right of the window you should see a play button, if you hover it, it should read "Run Python File". Click this button.
-- If nothing happens, close VS Code and reopen it. You should only need to do this once, but when switching between languages VS Code can get confused. 
+Open the debug panel on the left sidebar once more. Next to the green arrow, select the dropdown button and find the entry titled "Python" and select it.
 
-You'll notice a new terminal gets added to the list below called Python, this is where all of your python input and output will appear throughout this course.
+A popup will appear with options for your Python debugger, likely with only one option. Select the option titled "Python File:".
+
+Now click the green arrow to run the program. You'll notice a new terminal gets added to the list below called Python, this is where all of your python input and output will appear throughout this course.
 
 In the python file, to the left of the number 1 showing the line number click on the red dot that appears to add it. 
 
-Click on the little down arrow next to the play button in the python file, and click on "Debug Python File". Just like with our C program, VS Code will then begin running the program and pause at the line of code we have. We have the same options for how we can move the debugger forward. Again click the continue button to simply let the program run till it ends.
+Click the green arrow to run the program just as we did before, this time it should stop at the line like the debugger did with the C file. We have the same options for how we can move the debugger forward. Again click the continue button to simply let the program run till it ends.
 
 ## Final Notes
 
