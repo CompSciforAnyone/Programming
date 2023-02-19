@@ -329,7 +329,7 @@ Just like we created a .c file in our C folder, create a file named "hello.py" i
 
 Enter the following code into the python file:
 
-    print("Hello world!)
+    print("Hello world!")
 
 Up at the top right of the window you should see a play button, if you hover it, it should read "Run Python File". Click this button.
 - If nothing happens, close VS Code and reopen it. You should only need to do this once, but when switching between languages VS Code can get confused. 
